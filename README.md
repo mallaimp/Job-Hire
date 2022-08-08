@@ -10,4 +10,6 @@ npm i @fortawesome/fontawesome-free
 
 
 Node JS
+
+
 npm install nodemon ts-node @types/node @types/bcryptjs @types/cors @types/dotenv  @types/express @types/express-validator @types/gravatar @types/jsonwebtoken @types/mongoose bcryptjs cors dotenv express express-validator gravatar jsonwebtoken mongoose
